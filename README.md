@@ -1,2 +1,2 @@
-[![iglee42's GitHub stats](https://github-readme-stats.vercel.app/api?username=iglee42&theme=merko&show_icon=true))](https://github.com/anuraghazra/github-readme-stats)
+[![iglee42's GitHub stats](https://github-readme-stats.vercel.app/api?username=iglee42&theme=merko&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
