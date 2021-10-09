@@ -7,7 +7,7 @@
 
 ### Choses à faire pratiquement impossible :
 
-- [ ] Se venger de estewolf38
+- [ ] Se venger de estewolf38 et de orawolf
 - [ ] Créer un serveur minecraft
 
 Réseaux sociaux<br>
