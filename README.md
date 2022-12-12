@@ -10,6 +10,7 @@
 </p>
 
 Réseaux sociaux<br>
+  <a href="https://www.youtube.com/channel/UCenQbpUwq9-eKKJc-S7j8Rw"><img alt="iglée42" src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/nFBAXfb"><img alt="iglée42#5485" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/iglee42"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
