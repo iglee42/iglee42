@@ -15,7 +15,7 @@
   <a href="https://twitter.com/iglee42"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
-[![iglee42's GitHub stats](https://github-readme-stats.vercel.app/api?username=iglee42&theme=merko&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![iglee42's GitHub stats]([https://github-readme-stats.vercel.app/](https://github-readme-stats-iglee42.vercel.app/api?username=iglee42&theme=merko&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
