@@ -14,8 +14,13 @@
   <a href="https://discord.gg/nFBAXfb" target="_blank"><img alt="iglée42#5485" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/iglee42" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
+<h2>Suggestions</h2>
+
+<p>
+  For any suggestions go to <a href="http://iglee.site" target="_blank">http://iglee.site</a>
+</p>
+
 <h2>Github Stats</h2>
 <img align="left" alt="iglee42's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iglee42&show_icons=true&hide_border=false&theme=merko" />
-
 
 
