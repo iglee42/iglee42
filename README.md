@@ -17,7 +17,7 @@
 <h2>Suggestions</h2>
 
 <p>
-  For any suggestions go to <a href="http://iglee.site" target="_blank">http://iglee.site</a>
+  For any suggestions go to <a href="http://iglee.fr" target="_blank">http://iglee.fr</a>
 </p>
 
 <h2>Github Stats</h2>
