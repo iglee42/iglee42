@@ -12,12 +12,11 @@
 <h2>Socials</h2>
   <a href="https://www.youtube.com/channel/UCenQbpUwq9-eKKJc-S7j8Rw" target="_blank"><img alt="iglée42" src="https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/nFBAXfb" target="_blank"><img alt="iglée42#5485" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://twitter.com/iglee42" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 <h2>Suggestions</h2>
 
 <p>
-  For any suggestions go to <a href="http://iglee.fr" target="_blank">http://iglee.fr</a>
+  For any suggestions go to <a href="http://iglee.fr" target="_blank">https://iglee.fr</a>
 </p>
 
 <h2>Github Stats</h2>
